@@ -8,9 +8,9 @@ This is an app created to practice building components and to stretch my underst
 - React
 
 ### Screenshot
-![React Actors Page](/Users/meganhenry/prime/tier2/W4/Day2/react-actors/Screen Shot 2020-02-18 at 1.02.56 PM.png)
+![React Actors Page](https://github.com/meghen/react-actors/blob/master/Screen%20Shot%202020-02-18%20at%201.02.56%20PM.png?raw=true)
 
-![React Actors Popup](/Users/meganhenry/prime/tier2/W4/Day2/react-actors/Screen Shot 2020-02-18 at 1.03.33 PM.png)
+![React Actors Popup](https://github.com/meghen/react-actors/blob/master/Screen%20Shot%202020-02-18%20at%201.03.33%20PM.png?raw=true)
 
 ## Checklist
 - [x] Create components for the following: App.js, Header.js, About.js, Contact.js, Footer.js 

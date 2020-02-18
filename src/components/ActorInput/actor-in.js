@@ -10,7 +10,11 @@ class ActorIn extends Component {
         alert('Thank you '+ this.input.current.value);
         document.getElementById("clear-inputs").reset();
         event.preventDefault();
+        toDom(event);
       }
+    toDom(event) {
+        this.input.current.value
+    }
   render() {
     return (
     <form onSubmit={this.handleSubmit} id="clear-inputs">

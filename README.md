@@ -38,13 +38,13 @@ This is an app created to practice building components and to stretch my underst
 
     export default App;
     ```
--[x] Should contain an h1 that says React Actors
--[x] Should contain an h2 that says About and a paragraph describing the organization.
--[x] Should contain an h2 that says Contact, a paragraph with the phone number, and a paragraph with the email.
--[x] Should contain a copyright © React Actors (don't worry about the symbol if you can't get it working, but you should be able to copy and paste it).
+- [x] Should contain an h1 that says React Actors
+- [x] Should contain an h2 that says About and a paragraph describing the organization.
+- [x] Should contain an h2 that says Contact, a paragraph with the phone number, and a paragraph with the email.
+- [x] Should contain a copyright © React Actors (don't worry about the symbol if you can't get it working, but you should be able to copy and paste it).
 
 ## Stretch Goals
--[] A sentence should appear below the form that says who the person is and their best impression.
--[] This sentence should display only if all three fields have values. (Research conditional rendering.)
--[x] An alert should say thank you and then the first name
--[x] The form should clear after click
+- [] A sentence should appear below the form that says who the person is and their best impression.
+- [] This sentence should display only if all three fields have values. (Research conditional rendering.)
+- [x] An alert should say thank you and then the first name
+- [x] The form should clear after click

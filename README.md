@@ -44,7 +44,7 @@ This is an app created to practice building components and to stretch my underst
 - [x] Should contain a copyright © React Actors (don't worry about the symbol if you can't get it working, but you should be able to copy and paste it).
 
 ## Stretch Goals
-- [] A sentence should appear below the form that says who the person is and their best impression.
-- [] This sentence should display only if all three fields have values. (Research conditional rendering.)
+- [ ] A sentence should appear below the form that says who the person is and their best impression.
+- [ ] This sentence should display only if all three fields have values. (Research conditional rendering.)
 - [x] An alert should say thank you and then the first name
 - [x] The form should clear after click

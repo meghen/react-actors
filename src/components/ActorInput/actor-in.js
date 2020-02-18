@@ -8,11 +8,12 @@ class ActorIn extends Component {
       }
     handleSubmit(event) {
         alert('Thank you '+ this.input.current.value);
+        document.getElementById("clear-inputs").reset();
         event.preventDefault();
       }
   render() {
     return (
-    <form onSubmit={this.handleSubmit}>
+    <form onSubmit={this.handleSubmit} id="clear-inputs">
         <label>
             Name:
           <input type="text" name="firstname" placeholder="First Name" ref={this.input}/>
